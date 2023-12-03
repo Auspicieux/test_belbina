@@ -1,25 +1,22 @@
 {
   "files": {
-    "main.css": "/test_belbina/static/css/main.a74f7bb1.chunk.css",
-    "main.js": "/test_belbina/static/js/main.9f86652b.chunk.js",
-    "main.js.map": "/test_belbina/static/js/main.9f86652b.chunk.js.map",
+    "main.css": "/test_belbina/static/css/main.241e6ebb.chunk.css",
+    "main.js": "/test_belbina/static/js/main.cb049674.chunk.js",
+    "main.js.map": "/test_belbina/static/js/main.cb049674.chunk.js.map",
     "runtime-main.js": "/test_belbina/static/js/runtime-main.4c41d165.js",
     "runtime-main.js.map": "/test_belbina/static/js/runtime-main.4c41d165.js.map",
-    "static/css/2.5961d1bd.chunk.css": "/test_belbina/static/css/2.5961d1bd.chunk.css",
-    "static/js/2.a4cb7b94.chunk.js": "/test_belbina/static/js/2.a4cb7b94.chunk.js",
-    "static/js/2.a4cb7b94.chunk.js.map": "/test_belbina/static/js/2.a4cb7b94.chunk.js.map",
+    "static/css/2.7ee13d33.chunk.css": "/test_belbina/static/css/2.7ee13d33.chunk.css",
+    "static/js/2.adf9ea0f.chunk.js": "/test_belbina/static/js/2.adf9ea0f.chunk.js",
+    "static/js/2.adf9ea0f.chunk.js.map": "/test_belbina/static/js/2.adf9ea0f.chunk.js.map",
     "index.html": "/test_belbina/index.html",
-    "static/css/2.5961d1bd.chunk.css.map": "/test_belbina/static/css/2.5961d1bd.chunk.css.map",
-    "static/css/main.a74f7bb1.chunk.css.map": "/test_belbina/static/css/main.a74f7bb1.chunk.css.map",
-    "static/js/2.a4cb7b94.chunk.js.LICENSE.txt": "/test_belbina/static/js/2.a4cb7b94.chunk.js.LICENSE.txt",
-    "static/media/BELBIN.143ada9e.svg": "/test_belbina/static/media/BELBIN.143ada9e.svg",
+    "static/css/2.7ee13d33.chunk.css.map": "/test_belbina/static/css/2.7ee13d33.chunk.css.map",
+    "static/css/main.241e6ebb.chunk.css.map": "/test_belbina/static/css/main.241e6ebb.chunk.css.map",
+    "static/js/2.adf9ea0f.chunk.js.LICENSE.txt": "/test_belbina/static/js/2.adf9ea0f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/test_belbina/static/media/benzin-regular.a1717d5b.ttf",
-    "static/media/checkMark.b02177d2.svg": "/test_belbina/static/media/checkMark.b02177d2.svg",
     "static/media/collectivist.bc88e536.jpg": "/test_belbina/static/media/collectivist.bc88e536.jpg",
     "static/media/dovodchik.bcff3b9d.jpg": "/test_belbina/static/media/dovodchik.bcff3b9d.jpg",
     "static/media/formirovatel.d4516b6d.jpg": "/test_belbina/static/media/formirovatel.d4516b6d.jpg",
     "static/media/ispolnitel.cd00c45e.jpg": "/test_belbina/static/media/ispolnitel.cd00c45e.jpg",
-    "static/media/mark.3b8c56de.svg": "/test_belbina/static/media/mark.3b8c56de.svg",
     "static/media/mislitel.8be4c246.jpg": "/test_belbina/static/media/mislitel.8be4c246.jpg",
     "static/media/ozenchik.a35bb5e8.jpg": "/test_belbina/static/media/ozenchik.a35bb5e8.jpg",
     "static/media/predsedatel.79dd26bd.jpg": "/test_belbina/static/media/predsedatel.79dd26bd.jpg",
@@ -27,9 +24,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4c41d165.js",
-    "static/css/2.5961d1bd.chunk.css",
-    "static/js/2.a4cb7b94.chunk.js",
-    "static/css/main.a74f7bb1.chunk.css",
-    "static/js/main.9f86652b.chunk.js"
+    "static/css/2.7ee13d33.chunk.css",
+    "static/js/2.adf9ea0f.chunk.js",
+    "static/css/main.241e6ebb.chunk.css",
+    "static/js/main.cb049674.chunk.js"
   ]
 }
