@@ -4,8 +4,9 @@ import * as types from "./types";
 import { loadRolesSuccess } from "./actions";
 import { setStatusAsync } from "src/store/main/actions";
 import { loadStatus } from "src/store/loadStatus";
+import { SagaIterator } from "@redux-saga/core";
 
-function* loadRolesAsync(services: typeof bottle) {
+function* loadRolesAsync(services: typeof bottle): SagaIterator {
     try {
         const roles = yield call(services.container.ApiRole.loadRoles);
         yield put(loadRolesSuccess(roles));

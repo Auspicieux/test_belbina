@@ -4,8 +4,9 @@ import * as types from "./types";
 import { loadBlocksSuccess } from "./actions";
 import { setStatusAsync } from "src/store/main/actions";
 import { loadStatus } from "src/store/loadStatus";
+import { SagaIterator } from "@redux-saga/core";
 
-function* loadBlocksAsync(services: typeof bottle) {
+function* loadBlocksAsync(services: typeof bottle): SagaIterator {
     try {
         const blocks = yield call(services.container.ApiBlock.loadBlocks);
         yield put(loadBlocksSuccess(blocks));

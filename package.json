@@ -19,8 +19,8 @@
     "connected-react-router": "^6.8.0",
     "gh-pages": "^3.1.0",
     "immutable": "^4.0.0-rc.12",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-phone-number-input": "^3.1.17",
     "react-redux": "^7.2.2",
     "react-router": "^5.2.0",
@@ -37,8 +37,8 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
@@ -62,5 +62,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "/test-belbina/"
+  "homepage": "auspicieux.github.io/test_belbina"
 }
