@@ -6,11 +6,11 @@ const RoleBlock = (props) => {
 
     let pLabel;
     if (props.roleClass === 'first') {
-        pLabel = 'Преобладающая роль';
+        pLabel = 'Переважаюча роль';
     } else if (props.roleClass === 'second') {
-        pLabel = 'Второстепенная роль';
+        pLabel = 'Другорядна роль';
     } else {
-        pLabel = 'Слабая роль';
+        pLabel = 'Слабка роль';
     }
 
     return (
@@ -24,19 +24,19 @@ const RoleBlock = (props) => {
                 <h3>{props.name}</h3>
             </div>
             <div className={classes.parag}>
-                <p className={classes.bold}>Краткое описание:</p>
+                <p className={classes.bold}>Короткий опис:</p>
                 <p className={classes.text}>
                     {props.description}
                 </p>
-                <p className={classes.bold}>Сильные стороны:</p>
+                <p className={classes.bold}>Сильнi сторони:</p>
                 <p className={classes.text}>
                     {props.haracteristic}
                 </p>
-                <p className={classes.bold}>Слабые стороны:</p>
+                <p className={classes.bold}>Слабкi сторони:</p>
                 <p className={classes.text}>
                     {props.weakness}
                 </p>
-                <p className={classes.bold}>Вклад в команду:</p>
+                <p className={classes.bold}>Внесок у команду:</p>
                 <p className={classes.text}>
                     {props.functionality}
                 </p>

@@ -260,17 +260,17 @@ function TestPage( props: any ) {
             <>
             <div style={{ display: 'flex', alignItems: 'baseline' }}>
                 <p style={{ fontWeight: 600 }}> 
-                    {possibleMaximumValueQuestion === 1 ? 'Остался ' : 'Осталось '}
+                    {possibleMaximumValueQuestion === 1 ? 'Залишився ' : 'Залишились '}
                     {possibleMaximumValueQuestion} 
-                    {possibleMaximumValueQuestion >= 5 ? ' баллов ' :
-                    (possibleMaximumValueQuestion > 1 ? ' балла ' : ' балл ') } 
+                    {possibleMaximumValueQuestion >= 5 ? ' балiв ' :
+                    (possibleMaximumValueQuestion > 1 ? ' бали ' : ' бал ') }
                     из 10 
                 </p> 
                 <WrapperTooltipInfo>
                     <TooltipInfo open={openInfo}>
                         <Typography>
-                            Нужно распределить <b>{possibleMaximumValueQuestion}</b> из 10 баллов для продолжение
-                            теста
+                            Потрiбно розподілити <b>{possibleMaximumValueQuestion}</b> з 10 балів для продовження
+                            тесту
                         </Typography>
                         <ButtonInfo onClick={() => setOpenInfo(false)}>Понятно</ButtonInfo>
                     </TooltipInfo>

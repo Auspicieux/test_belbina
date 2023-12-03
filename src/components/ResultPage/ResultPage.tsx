@@ -131,7 +131,7 @@ export default function ResultPage() {
             />*/}
 
             <div className={styleClasses.main}>
-                <h1>Результат теста</h1>
+                <h1>Результат тесту</h1>
                 <div className={styleClasses.table}> 
                     <ul>
                         <li className={styleClasses.firstLi}>
@@ -146,14 +146,14 @@ export default function ResultPage() {
                                 <span style={{
                                     fontWeight: 600
                                 }}>
-                                    Проценты
+                                    Вiдсотки
                                 </span>
                             </div>
                             <div className={styleClasses.thirdColumn}>
                                 <span style={{
                                     fontWeight: 600
                                 }}>
-                                    Баллы
+                                    Бали
                                 </span>
                             </div>
                         </li>
@@ -208,7 +208,7 @@ export default function ResultPage() {
                 <h2 style={{
                     marginTop: '80px'
                 }}>
-                    Ваши сильные роли
+                    Ваши сильнi ролi
                 </h2>
                 <div style={{
                     width: '90%',
@@ -260,34 +260,6 @@ export default function ResultPage() {
                         functionality={roles[smallest.category].functionality}
                         description={roles[smallest.category].description}
                     />
-                </div>
-                <p className={styleClasses.bottomPar}>
-                    Мы подготовили для тебя развернутое описание каждой роли!<br />
-                    Чтобы получить наш чек-лист, тебе нужно<br />
-                    оставить пару строк о себе
-                </p>
-                <div 
-                style={{
-                    width: '100%',
-                    marginTop: '40px',
-                    display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'center'
-                }}>
-                    <Form />
-                </div>
-                <div className={ styleClasses.shareButton }>
-					{/*<button onClick={ copyToClipboard }
-                    style = { isCopied ? { color: "#5850F1" } : {} }
-                    >
-                     <img src={ isCopied ? shareIconColored : shareIcon } className={ styleClasses.buttonIcon }
-                    />
-                        { isCopied ? "Скопировано" : "Поделиться тестом" }
-                    </button>*/}
-                </div>
-                <div className={styleClasses.belbinLabel}>
-                    <img src={BELBINLabel} style={{ transform: "rotate(-6deg)", paddingBottom: '0px' }} alt=""/>
-                    <img src={BELBINLabel} style={{ transform: "rotate(6deg)", paddingTop: '0px' }} alt=""/>
                 </div>
             </div>
         </>
