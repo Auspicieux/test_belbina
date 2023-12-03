@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/auspicieux.github.io/test_belbina/static/css/main.accc5392.chunk.css",
+    "main.js": "/auspicieux.github.io/test_belbina/static/js/main.e12ce2a1.chunk.js",
+    "main.js.map": "/auspicieux.github.io/test_belbina/static/js/main.e12ce2a1.chunk.js.map",
+    "runtime-main.js": "/auspicieux.github.io/test_belbina/static/js/runtime-main.ecaa6ff4.js",
+    "runtime-main.js.map": "/auspicieux.github.io/test_belbina/static/js/runtime-main.ecaa6ff4.js.map",
+    "static/css/2.5961d1bd.chunk.css": "/auspicieux.github.io/test_belbina/static/css/2.5961d1bd.chunk.css",
+    "static/js/2.67ef309b.chunk.js": "/auspicieux.github.io/test_belbina/static/js/2.67ef309b.chunk.js",
+    "static/js/2.67ef309b.chunk.js.map": "/auspicieux.github.io/test_belbina/static/js/2.67ef309b.chunk.js.map",
+    "index.html": "/auspicieux.github.io/test_belbina/index.html",
+    "static/css/2.5961d1bd.chunk.css.map": "/auspicieux.github.io/test_belbina/static/css/2.5961d1bd.chunk.css.map",
+    "static/css/main.accc5392.chunk.css.map": "/auspicieux.github.io/test_belbina/static/css/main.accc5392.chunk.css.map",
+    "static/js/2.67ef309b.chunk.js.LICENSE.txt": "/auspicieux.github.io/test_belbina/static/js/2.67ef309b.chunk.js.LICENSE.txt",
+    "static/media/BELBIN.143ada9e.svg": "/auspicieux.github.io/test_belbina/static/media/BELBIN.143ada9e.svg",
+    "static/media/index.css": "/auspicieux.github.io/test_belbina/static/media/benzin-regular.a1717d5b.ttf",
+    "static/media/checkMark.b02177d2.svg": "/auspicieux.github.io/test_belbina/static/media/checkMark.b02177d2.svg",
+    "static/media/collectivist.bc88e536.jpg": "/auspicieux.github.io/test_belbina/static/media/collectivist.bc88e536.jpg",
+    "static/media/dovodchik.bcff3b9d.jpg": "/auspicieux.github.io/test_belbina/static/media/dovodchik.bcff3b9d.jpg",
+    "static/media/formirovatel.d4516b6d.jpg": "/auspicieux.github.io/test_belbina/static/media/formirovatel.d4516b6d.jpg",
+    "static/media/ispolnitel.cd00c45e.jpg": "/auspicieux.github.io/test_belbina/static/media/ispolnitel.cd00c45e.jpg",
+    "static/media/mark.3b8c56de.svg": "/auspicieux.github.io/test_belbina/static/media/mark.3b8c56de.svg",
+    "static/media/mislitel.8be4c246.jpg": "/auspicieux.github.io/test_belbina/static/media/mislitel.8be4c246.jpg",
+    "static/media/ozenchik.a35bb5e8.jpg": "/auspicieux.github.io/test_belbina/static/media/ozenchik.a35bb5e8.jpg",
+    "static/media/predsedatel.79dd26bd.jpg": "/auspicieux.github.io/test_belbina/static/media/predsedatel.79dd26bd.jpg",
+    "static/media/razvedchik.37ae9f02.jpg": "/auspicieux.github.io/test_belbina/static/media/razvedchik.37ae9f02.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecaa6ff4.js",
+    "static/css/2.5961d1bd.chunk.css",
+    "static/js/2.67ef309b.chunk.js",
+    "static/css/main.accc5392.chunk.css",
+    "static/js/main.e12ce2a1.chunk.js"
+  ]
+}
